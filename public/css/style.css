@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.rounded-button {
+  background-color: black;
+  border: 1px solid white;
+  border-radius: 8px;
+  padding: 5px 10px;
+  font-size: 16px;
+  color: white;
+  cursor: pointer;
+}
